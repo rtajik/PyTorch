@@ -25,14 +25,14 @@ Multiple learning resources will be followed throughout this journey. Important 
 
 ## 🎓 Learning Roadmap
 
-### 01. PyTorch for Deep Learning — Joseph Portilla
+### 01. PyTorch for Deep Learning — Jose Portilla
 
 <p>
   <img src="https://img.shields.io/badge/STATUS-COMPLETED-2ea44f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LEVEL-INTERMEDIATE%20%2F%20ADVANCED-orange?style=flat-square" />
 </p>
 
-The first course in this learning journey was Joseph Portilla's PyTorch course, which has now been completed.
+The first course in this learning journey was Jose Portilla's PyTorch course, which has now been completed.
 
 This is a relatively short but intensive course that moves quickly through Deep Learning concepts and their practical implementations.
 
@@ -138,7 +138,7 @@ Every learning resource is an opportunity to strengthen both theoretical knowled
 ```text
 PyTorch/
 │
-├── Joseph-Portilla/
+├── Jose-Portilla/
 │   ├── README.md
 │   ├── ANN/
 │   ├── CNN/
